@@ -14,3 +14,5 @@ API для получения анекдотов - https://sv443.net/jokeapi/v2/
 Необходимо вести проект на Github таким образом, чтобы была доступна история коммитов (не выгрузка одним коммитом)
 
 Необходимо предоставить ссылку на deploy проекта (например, на Github pages, surge.sh или альтернативных ресурсах)
+
+![image](https://raw.githubusercontent.com/Vitautas-C/joke-test/master/prototype.jpg)
